@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心配性",
+  "base_artist": "ibis Novellis",
+  "createdAt": "2026-02-25T18:32:33.422156Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心配性",
+      "artist": "ibis Novellis",
+      "has_synced": false,
+      "path": "select/pl_01_心配性_ibis_Novellis.txt"
+    }
+  ]
+}
